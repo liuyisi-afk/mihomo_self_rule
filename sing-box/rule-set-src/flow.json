@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "egdownload.fastly-edge.com",
+        "emby.bangumi.ca",
+        "emby.pilipiliultra.com",
+        "epicgames-download1-1251447533.file.myqcloud.com",
+        "epicgames-download1.akamaized.net",
+        "link00.okemby.org",
+        "link01.okemby.org",
+        "manga.pilipiliultra.com",
+        "mix.1steam.one",
+        "neo.iflya321.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".clawcloudrun.com",
+        ".frostcc.ggff.net",
+        ".gofile.io",
+        ".hanime1.me",
+        ".mtldss.top",
+        ".natvm.dpdns.org",
+        ".now61.com"
+      ]
+    }
+  ]
+}
